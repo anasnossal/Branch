@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     public void NewMethod()
     {
         int i = 2+2;
+        int ii = 2+3;
+
         String test = "test";
         String testTWo = "test two";
     }
