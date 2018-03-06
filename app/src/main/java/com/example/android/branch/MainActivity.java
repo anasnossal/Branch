@@ -18,4 +18,12 @@ public class MainActivity extends AppCompatActivity {
         String test = "test";
         String testTWo = "test two";
     }
+
+    public void doSomework(){
+        int n = 2+2;
+        int nn = 2+3;
+
+        String t = "test";
+        String tTwo = "test two";
+    }
 }
