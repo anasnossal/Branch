@@ -20,10 +20,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void doSomework(){
-        int n = 2+2;
-        int nn = 2+3;
+        int n = 4;
+        int nn = 5;
 
-        String t = "test";
-        String tTwo = "test two";
+        String t = "la";
+        String tTwo = "lalala";
     }
 }
