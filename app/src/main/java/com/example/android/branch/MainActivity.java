@@ -12,7 +12,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void NewMethod()
     {
-        int i = 2+2;
+        int i = 45;
+        int ii = 65;
         String test = "test";
         String testTWo = "test two";
     }
